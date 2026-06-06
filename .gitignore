@@ -3,6 +3,10 @@
 *-bak.kicad_pcb
 *-bak.kicad_sch
 
+# Tools
+motherboard-design/tools/
+tools/
+
 # Python
 __pycache__/
 *.py[cod]
