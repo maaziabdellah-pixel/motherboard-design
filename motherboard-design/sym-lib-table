@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "EarbudsCharger")(type "KiCad")(uri "${KIPRJMOD}/EarbudsCharger.kicad_sym")(options "")(descr "Smart Earbuds Charging PCB project symbols"))
+)
